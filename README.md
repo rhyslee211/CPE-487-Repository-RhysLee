@@ -1,4 +1,4 @@
-## CPE 487: Digital System Design Repository Rhys Lee
+## CPE 487: Digital System Design Repository - Rhys Lee
 # Course Description:
 
 The course focuses on digital system design, modeling, and synthesis using the VHSIC (Very High Speed Integrated Circuits) Hardware Description Language (VHDL). The course begins with a review of Boolean logic and binary arithmetic. Students then learn modeling and simulation of digital circuits using behavioral, dataflow, and structural modeling techniques, including the use of VHDL subprograms and operator overloading. This is followed by computer-aided synthesis and implementation, including finite state machines (FSM) and test bench design. Students will use commercial VHDL compilation, simulation, and synthesis tools to evaluate and test their designs. They will also participate in several laboratory sessions in which they develop and test hardware implementations using commercial FPGA evaluation boards.
