@@ -1,4 +1,6 @@
 -- VHDL code link https://www.fpga4student.com/2017/08/vhdl-code-for-traffic-light-controller.html
+-- This is VHDL code for a traffic light controller, it uses sensors to detect any cars that are crossing the intersection of the highway and turns the light yellow then red
+-- After the light for the cars crossing the intersection turns green, then back to yellow, then red. If there are no cars on the street intersecting the highway, the highway light is always green
 -- VHDL project: VHDL code for traffic light controller
 library IEEE;
 use IEEE.STD_LOGIC_1164.ALL;
