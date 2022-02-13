@@ -3,7 +3,9 @@
 GTKWave Image
 ![GTKWave Image](half_adder_screenshot.png?raw=true)
 
-VCD File is appearing as unusually large ![GTKWave Image](VCDFile.png?raw=true)
+VCD File is appearing as unusually large
+
+![GTKWave Image](VCDFile.png?raw=true)
 
 Code was found from Nandland
 
