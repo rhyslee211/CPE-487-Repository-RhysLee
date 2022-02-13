@@ -30,3 +30,7 @@ The course focuses on digital system design, modeling, and synthesis using the V
 - Understand and complete all learning objectives
 
 - Create a successful final project for the course
+
+## Assignments
+
+# [Assignment 1](CPE-487-Repository-RhysLee/assignment1)
