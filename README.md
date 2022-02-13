@@ -31,6 +31,6 @@ The course focuses on digital system design, modeling, and synthesis using the V
 
 - Create a successful final project for the course
 
-## Assignments
+## Assignments:
 
 
