@@ -33,4 +33,4 @@ The course focuses on digital system design, modeling, and synthesis using the V
 
 ## Assignments
 
-# [Assignment 1](CPE-487-Repository-RhysLee/assignment1/)
+
