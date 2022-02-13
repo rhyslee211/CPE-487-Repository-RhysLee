@@ -3,7 +3,7 @@
 GTKWave Image
 ![GTKWave Image](half_adder_screenshot.png?raw=true)
 
-VCD File is appearing as unusually large
+VCD File is appearing unusually large and was not allowing me to upload to GitHub
 
 ![GTKWave Image](VCDFile.png?raw=true)
 
