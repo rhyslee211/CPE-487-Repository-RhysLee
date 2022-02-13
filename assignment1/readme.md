@@ -1,1 +1,1 @@
-Assignment 1 code
+VHDL Code for Assignment 1
