@@ -16,6 +16,8 @@ The third is with switches 0, 1, and 2 set to on. ![](https://github.com/rhyspie
 
 For this part of the lab I copied a hex counter given by Professor Lu.
 
-This ![recording](https://youtu.be/GfroP71qs-o) shows the working hex counter on the Nexys A7-100T board.
+The recording below shows the working hex counter on the Nexys A7-100T board.
+
+https://youtu.be/GfroP71qs-o
 
 
