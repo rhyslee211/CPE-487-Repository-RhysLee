@@ -16,6 +16,6 @@ The ![third](https://github.com/rhyspiecesno8/CPE-487-Repository-RhysLee/blob/ma
 
 For this part of the lab I copied a hex counter given by Professor Lu.
 
-This recording shows the working hex counter on the Nexys A7-100T board.
+This ![recording](https://youtu.be/GfroP71qs-o) shows the working hex counter on the Nexys A7-100T board.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GfroP71qs-o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
