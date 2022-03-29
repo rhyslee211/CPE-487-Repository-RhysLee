@@ -41,3 +41,7 @@ The course focuses on digital system design, modeling, and synthesis using the V
 
 [Lab 2](https://github.com/rhyspiecesno8/CPE-487-Repository-RhysLee/tree/main/Lab2)
 
+[Labs 3 and 6](https://github.com/rhyspiecesno8/CPE-487-Repository-RhysLee/tree/main/Labs%203%20and%206)
+
+[Lab 4](https://github.com/rhyspiecesno8/CPE-487-Repository-RhysLee/tree/main/Lab4)
+
