@@ -306,10 +306,10 @@ begin
 				hsync <= '1';
 				vsync <= '1';
 				
-				hCount <= 640;
-				vCount <= 480;
-				nextHCount <= 641;
-				nextVCount <= 480;
+				hCount <= 800;
+				vCount <= 640;
+				nextHCount <= 801;
+				nextVCount <= 640;
 				
 				rgbDrawColor := (others => '0');
 				
@@ -318,10 +318,10 @@ begin
 				
 				-- Running at 25 Mhz (50 Mhz / 2)
 				if divide_by_2 = '1' then
-					if(hCount = 799) then
+					if(hCount = 959) then
 						hCount <= 0;
 						
-						if(vCount = 524) then
+						if(vCount = 684) then
 							vCount <= 0;
 						else
 							vCount <= vCount + 1;
@@ -332,11 +332,11 @@ begin
 					
 					
 					-- horizontal rollover
-					if (nextHCount = 799) then	
+					if (nextHCount = 959) then	
 						nextHCount <= 0;
 						
 						-- vertical rollover
-						if (nextVCount = 524) then	
+						if (nextVCount = 684) then	
 							nextVCount <= 0;
 						else
 							nextVCount <= vCount + 1;
@@ -347,13 +347,13 @@ begin
 					
 
 					-- trigger vsync and hsync pulses
-					if (vCount >= 490 and vCount < 492) then
+					if (vCount >= 650 and vCount < 652) then
 						vsync <= '0';
 					else
 						vsync <= '1';
 					end if;
 					
-					if (hCount >= 656 and hCount < 752) then
+					if (hCount >= 816 and hCount < 912) then
 						hsync <= '0';
 					else
 						hsync <= '1';
@@ -361,7 +361,7 @@ begin
 					
 					
 					-- in display range
-					if (hCount < 640 and vCount < 480) then
+					if (hCount < 800 and vCount < 640) then
 
 						-- Default is background
 						rgbDrawColor := "110" & "111" & "11";
