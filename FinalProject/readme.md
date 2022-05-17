@@ -27,3 +27,11 @@ The next error I experienced was a "frequency out of range" error on the monitor
 Once the display started working the game was able to be played. The BTNC button would make the dinosaur jump and the BTNL would reset the game. The game also automatically reset after the dinosaur died.
 
 [Here is a link to a video of the working project.](https://www.youtube.com/watch?v=qGho2Cwx7Rg)
+
+# Instructions
+
+To run the T-Rex Runner project, create a project folder and download all the files and add the VHD files as sources, and the XDC file as a constraint.
+
+Then run synthesis, run implementation, and then generate a bitstream.
+
+Next connect a 800 by 640 monitor to the board through a VGA connection. Then program the board with the bitstream.
