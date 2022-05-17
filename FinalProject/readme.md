@@ -20,8 +20,8 @@ After doing this I also had to remap some of the buttons that controlled the pro
 
 After doing all this I was hoping the project would've been finished, but unfortunately it was not. I ran into my next error, which was that when streaming to a monitor the monitor's gave me the error "Frequency out of range".
 
-The error I experienced shown on the monitor.
+The next error I experienced was a "frequency out of range" error on the monitors. The problem for this was that the original code was made to be run on 640 by 480 monitors, but I used 800 by 640. After changing a few numbers to new values, the video was able to display.
 
-![](/images/frequencyoutofrange.jpg)
+Once the display started working the game was able to be played. The BTNC button would make the dinosaur jump and the BTNL would reset the game. The game also automatically reset after the dinosaur died.
 
-I have not been able to fix this error yet, but I do believe that once I do the project will hopefully work.
+[Here is a link to a video of the working project.](https://www.youtube.com/watch?v=qGho2Cwx7Rg)
