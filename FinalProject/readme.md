@@ -4,6 +4,8 @@ For my final project I attempted to recreate the game that displays when you los
 
 The game was designed as a fun way to pass time while you were waiting for your computer to connect to the internet.
 
+The game has 2 main parts to it: The dinosaur, who the player controls, and the enemies, the cacti and pterodactyls, who if touch the dinosaur, end the game.
+
 ![](/images/googletrexrun.png)
 
 I attempted to recreate this by utlizing a version already designed by Sam Rose. The github for his project is located [here](https://github.com/samrose3/trex-runner)
